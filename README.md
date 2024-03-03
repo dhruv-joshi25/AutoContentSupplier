@@ -7,6 +7,7 @@ Welcome to the University Portal, a modern web application built with React.js, 
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
+5. [Dependency](#dependency)
 
 ## Introduction
 
@@ -28,9 +29,14 @@ git clone https://github.com/dhruv-joshi25/university-portal.git
 
 
 # Install dependencies
-npm install<br/>
-npm react-router-dom<br/>
-npm react-motion
+- [Node.js](https://nodejs.org/) installed on your machine.
+- [npm](https://www.npmjs.com/) (Node Package Manager) installed.
+- [Create React App](https://create-react-app.dev/docs/getting-started/) (CRA) globally installed.
+- [Axios](https://axios-http.com/docs/intro) for making HTTP requests.
+- [React Router](https://reactrouter.com/web/guides/quick-start) for navigation.
+- [Framer Motion](https://www.framer.com/docs/getting-started/) for animations.
+- [Tailwind CSS](https://tailwindcss.com/docs/installation) for styling.
+
 
 # Navigate to the project directory
 cd university-portal<br/>
