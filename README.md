@@ -43,4 +43,4 @@ cd university-portal<br/>
 Usage<br/>
 **Start the development server:** <br/>
 npm start<br/>
-Open your browser and navigate to http://localhost:3000.
+Open your browser and navigate to http://localhost:5173
